@@ -1,3 +1,4 @@
+//This is for the develop banch
 const charactersList = document.getElementById('charactersList');
 const searchBar = document.getElementById('searchBar');
 const apiURL = 'https://rickandmortyapi.com/api/character';
